@@ -1,0 +1,4 @@
+[core]
+    remote = publicaccess
+['remote "publicaccess"']
+    url = gdrive://1D8WtcnoxCl0-8WPiyH9OP27YYixrg_Rw
